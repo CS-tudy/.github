@@ -45,7 +45,7 @@
 
 </p>
 
-<h3 align="center">문서 / 협업</h3>
+<h3 align="center">ETC</h3>
 
 <p align="center">   
 
