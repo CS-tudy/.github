@@ -8,6 +8,8 @@
 
 ## 🔧 Technologies & Software Used
 
+<h3 align="center">BackEnd</h3>
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/Java 11-008FC7?style=for-the-badge&logo=Java&logoColor=white"/>
@@ -25,7 +27,7 @@
 </p>
 
 
-<h3 align="center">Front</h3>
+<h3 align="center">FrontEnd</h3>
 
 <p align="center">  
  
